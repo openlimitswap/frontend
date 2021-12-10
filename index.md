@@ -37,3 +37,6 @@ LimitSniper - <https://github.com/openlimitswap/Limit-Sniper>
 ### Download links
 
 To be added soon
+
+### Telegram
+<https://t.me/openlimitswap>
