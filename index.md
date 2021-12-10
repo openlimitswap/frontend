@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Open LimitSwap
 
-You can use the [editor on GitHub](https://github.com/openlimitswap/frontend/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Open LimitSwap consists in a fork of the [LimitSwap](https://github.com/CryptoGnome/LimitSwap) and [LimitSniper](https://github.com/CryptoGnome/Limit-Sniper) trading bots projects developed by CryptoGnome. According to the [official wiki](https://cryptognome.gitbook.io/limitswap/), they help traders by:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Snipe new tokens at listing
+* Place Limit Orders 
+* Create fully automated strategies
 
-### Markdown
+This is a community effort of a group of developers who are major fans of **LimitSwap** and who wish to build upon the open source version of these two bots, by adding new features and make some changes to the existing bots. In particular, we have completely removed any license requirement in order to use the bots.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Highlights
 
-```markdown
-Syntax highlighted code block
+✔️ 100% free to use, forever
 
-# Header 1
-## Header 2
-### Header 3
+✔️ Hassle free migration by supporting existing LimitSwap and LimitSniper configurations
 
-- Bulleted
-- List
+✔️ Not required to hold $LIMIT or any other token
 
-1. Numbered
-2. List
+✔️ Same community from existing LimitSwap Telegram group
 
-**Bold** and _Italic_ and `Code` text
+✔️ Single binary releases for Windows, MacOS X and Linux
 
-[Link](url) and ![Image](src)
-```
+✔️ Community driven governance
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Motivation
 
-### Jekyll Themes
+Like stated earlier, LimitSwap and LimitSniper and two great projects which we love. However we feel that the licensing model is completely inadequate, in particular it requires you to hold over 4000$ USD (at the time of writing) in $LIMIT token in order to use the Sniper bot. This is a major turndown to many aspiring users, so we decided to remove this requirement and make the bots 100% free to use. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openlimitswap/frontend/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+⚠️ We still recommend that you support LimitSwap by holding an amount of $LIMIT tokens which you are able to afford. The team deserves it.
 
-### Support or Contact
+### Repositories 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+LimitSwap - <https://github.com/openlimitswap/LimitSwap>
+LimitSniper - <https://github.com/openlimitswap/Limit-Sniper>
+
+### Download links
+
+To be added soon
